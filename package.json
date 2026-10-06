@@ -1,8 +1,20 @@
 {
-  "name": "odin-recipes",
+  "name": "culinary-quest",
   "private": true,
   "version": "2.0.0",
   "type": "module",
+  "description": "Culinary Quest is a collection of simple, yet tasteful recipes. Welcome!",
+  "keywords": [
+    "react",
+    "reactjs",
+    "react-router",
+    "react-router-dom",
+    "javascrtipt",
+    "i18next",
+    "i18n",
+    "i18n-react",
+    "i18next-react"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "vite build",

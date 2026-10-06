@@ -1,7 +1,11 @@
+import NavBar from "./components/NavBar";
+import Footer from "./components/Footer";
+
 function App() {
   return (
     <>
-    <h1>Hello how are you</h1>
+    <NavBar />
+    <Footer />
     </>
   )
 }

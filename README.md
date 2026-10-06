@@ -1,16 +1,26 @@
-# React + Vite
+# Culinary Quest
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Culinary Quest is a collection of simple, yet tasteful recipes. Welcome!
 
-Currently, two official plugins are available:
+## Technologies
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<ul>
+  <li><code>React</code></li>
+  <li><code>JavaScript</code></li>
+  <li><code>i18next</code></li>
+  <li><code>React Router</code></li>
+</ul>
 
-## React Compiler
+## Live Preview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<!-- Video and photo preview -->
 
-## Expanding the ESLint configuration
+## Running the project
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository
+
+<code>git clone https://github.com/Anna-Gladush/Culinary-Quest.git</code>
+
+2. Install the packages using the command <code>npm install</code>
+
+3. <code>npm run dev</code>
