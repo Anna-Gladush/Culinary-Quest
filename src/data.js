@@ -45,7 +45,6 @@ const data = [
       "The next day transfer cold dough to a floured surface and press flat into a rectangle shape. Dust with flour and roll into a large oval. Dust again and flip dough over. Use you hands to gently stretch the dough to form a rectangle. Continue rolling until you have a rectangle that is approximately 18x12 inches.",
       "For the filling, combine butter, apple butter, brown sugar, white sugar, and cinnamon in a bowl. (Regular cinnamon roll filling uses 8 tablespoons of butter, so if you don’t have apple butter, use an entire stick of butter for the filling.)",
       "Spread filling onto the dough, leaving about 1.5 inches of dough bare on the long opposite side. Scatter over walnuts. Roll dough up tightly and carefully without pressing out the filling, finishing with the seam side down. Use your hands to press into a uniform tube. Score into 12 equal portions, trimming a little bit of the dough off each end. Use a string or knife to cut dough roll into 12 rolls. The extra dough can be added to the bottoms of some of the smaller rolls.",
-      "Spread filling onto the dough, leaving about 1.5 inches of dough bare on the long opposite side. Scatter over walnuts. Roll dough up tightly and carefully without pressing out the filling, finishing with the seam side down. Use your hands to press into a uniform tube. Score into 12 equal portions, trimming a little bit of the dough off each end. Use a string or knife to cut dough roll into 12 rolls. The extra dough can be added to the bottoms of some of the smaller rolls.",
       "For the bath, pour apple cider into a saucepan and bring to a boil over medium-high heat. Boil until apple cider has reduced by half, about 12 minutes. Ladle out 1/4 cup of reduced apple cider and reserve for the icing. Continue cooking until the cider has reduced to about 1/3 cup and gets syrupy, about 12 more minutes. Turn off heat and stir in cream. Set aside until rolls are fully proofed.",
       "Once cinnamon rolls are proofed, ladle the cider bath evenly over the rolls, coating as much of the surface as possible.",
       "Preheat the oven to 350 degrees F (180 degrees C).",
@@ -633,4 +632,8 @@ export function getRecipes() {
 
 export function getRecipeByID(id) {
   return data.find((recipe) => recipe.id === id);
+}
+
+export function getRecipeByCategory(category) {
+  return data.filter((recipe) => recipe.category.includes(category));
 }

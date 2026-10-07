@@ -13,32 +13,31 @@ const Recipe = () => {
       return
     }
     setRecipe(foundRecipe)
-    console.log(foundRecipe)
   }, [id, navigate])
 
-  if (!recipe) return <h2>Loading...</h2>
+  if (!recipe) return <h1>Loading...</h1>
 
   const linksList = recipe.category.map(category => {
           return (
-            <div key={recipe.category}>
+            <div key={category}>
               <p>{">"}</p>
-              <Link href={`/recipes/${category}`}>{category}</Link>
+              <Link to={`/recipes/${category}`}>{category}</Link>
             </div>
           )
       })
 
   const ingredientList = Object.keys(recipe.ingredients).map(ingr => {
     return (
-      <>
-        {recipe.ingredients[ingr] === "all" ? "" : recipe.ingredients[ingr]}
-        <ul key={recipe.ingredients[ingr]}>
+      <div key={ingr}>
+        {recipe.ingredients[ingr] === "all" ? "" : ingr}
+        <ul>
           {recipe.ingredients[ingr].map(item => {
             return (
               <li key={item}>{item}</li>
             )
           })}
         </ul>
-      </>
+      </div>
     )
   })
 
@@ -48,27 +47,25 @@ const Recipe = () => {
     )
   })
 
-
-
   return (
-    <section className="recipe-card"> 
+    <section className="recipe"> 
       <div className="breadcrumbs">
-        <Link href="/">Home</Link>
+        <Link to="/">Home</Link>
         <p>{">"}</p>
-        <Link href="/recipes">All</Link>
+        <Link to="/recipes">All</Link>
         {linksList}
       </div>
       <div>
         <div className="recipe-basic-info">
-          <h2 className="recipe-name">{recipe.name}</h2>
+          <h1 className="recipe-name">{recipe.name}</h1>
           <p className="recipe-description">{recipe.description}</p>
         </div>
         <div className="recipe-ingredients">
-          <h3>Ingredients</h3>
+          <h2>Ingredients</h2>
           {ingredientList}
         </div>
         <div>
-          <h3>Instruction: </h3>
+          <h2>Instruction: </h2>
           <ol>
             {instructionList}
           </ol>

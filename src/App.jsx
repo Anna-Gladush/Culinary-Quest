@@ -1,6 +1,8 @@
 import NavBar from "./components/NavBar";
 import Footer from "./components/Footer";
 import Recipe from "./components/Recipe";
+import Recipes from "./components/Recipes";
+import Home from "./components/Home";
 import { Routes, Route } from 'react-router';
 
 function App() {
@@ -10,11 +12,11 @@ function App() {
     <Routes>
       <Route 
         path='/'
-        element={<h1>Index</h1>}
+        element={<Home />}
       />
       <Route 
         path='/recipes'
-        element={<h1>Recipes</h1>}
+        element={<Recipes />}
       />
       <Route 
         path='/recipes/:id'
