@@ -1,0 +1,614 @@
+[
+  {
+    "name": "Apple ‘Cider Bath’ Cinnamon Rolls",
+    "id": 1,
+    "rating": 5.0,
+    "img": [
+      "https://www.allrecipes.com/thmb/RcWtSEk2PGr1CyNJGw1bbadCbdg=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/12111965AppleCiderBathCinnamonRollsChefJohn4x3-d29e339a030d478e91bafa1d476576c1.jpg",
+      "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F576829c5217e43e72e7e83fa1626fac7%2F1789580673230DSC_1962-4.jpg&q=60&c=sc&poi=auto&orient=true&h=512"
+    ],
+    "description": "These apple “cider bath” cinnamon rolls are a seasonal twist on cream-bathed cinnamon rolls. I used apple cider to bathe the rolls and the results were terrific. In addition I am using a very easy no knead dough for my cinnamon rolls.",
+    "category": ["bread", "pastries", "cinnamon roll"],
+    "prepTime": "45 mins",
+    "cookTime": "55 mins",
+    "riseTime": "3 hrs",
+    "refrigerateTime": "8 hrs",
+    "coolTime": "20 mins",
+    "totalTime": "11 hrs",
+    "servings": 12,
+    "ingredients": {
+      "dough": [
+        "1 cup plus 2 tablespoons warm milk (90 degrees F/32 degrees C)",
+        "2 1/4 teaspoons active dry yeast",
+        "1/3 cup white sugar",
+        "6 tablespoons unsalted butter, melted",
+        "1 large egg, beaten",
+        "3/4 teaspoon fine salt",
+        "4 1/4 cups all purpose flour"
+      ],
+      "filling": [
+        "4 tablespoons soft butter",
+        "1/3 cup apple butter",
+        "1/3 cup brown sugar",
+        "1/3 cup white sugar",
+        "2 tablespoons cinnamon",
+        "1/2 cup chopped walnuts (optional)"
+      ],
+      "bath": ["4 cups apple cider", "2/3 cup cream"],
+      "icing": ["1/4 cup reduced apple cider", "2 cups powdered sugar"]
+    },
+    "instruction": [
+      "Pour warm milk into a small bowl and sprinkle yeast on top. Allow to sit for 10 minutes. Add sugar, melted butter, egg, and salt. Whisk to combine. Add flour and stir with a wooden spoon handle until everything is well combined and a sticky dough forms. Cover and let sit for 20 minutes.",
+      "Wet your hands. Uncover dough and do a set of 6 or 7 “stretch and folds” of the dough with your wet hands, turning the bowl as you go. Wet your hands again and shape the dough into a smooth ball. Cover and let raise until doubled in size, about 1 1/2 hours.",
+      "Transfer dough to a work surface and press out the air. Grab dough from the edge and stretch it over the top to the center. Repeat about 5 times, going all the way around, until the dough comes together. Flip dough over and use your hand and a bench scraper to form the dough into a tight ball using a circular motion on the table. Set dough into an oiled resealable bag and refrigerate overnight.",
+      "The next day transfer cold dough to a floured surface and press flat into a rectangle shape. Dust with flour and roll into a large oval. Dust again and flip dough over. Use you hands to gently stretch the dough to form a rectangle. Continue rolling until you have a rectangle that is approximately 18x12 inches.",
+      "For the filling, combine butter, apple butter, brown sugar, white sugar, and cinnamon in a bowl. (Regular cinnamon roll filling uses 8 tablespoons of butter, so if you don’t have apple butter, use an entire stick of butter for the filling.)",
+      "Spread filling onto the dough, leaving about 1.5 inches of dough bare on the long opposite side. Scatter over walnuts. Roll dough up tightly and carefully without pressing out the filling, finishing with the seam side down. Use your hands to press into a uniform tube. Score into 12 equal portions, trimming a little bit of the dough off each end. Use a string or knife to cut dough roll into 12 rolls. The extra dough can be added to the bottoms of some of the smaller rolls.",
+      "Spread filling onto the dough, leaving about 1.5 inches of dough bare on the long opposite side. Scatter over walnuts. Roll dough up tightly and carefully without pressing out the filling, finishing with the seam side down. Use your hands to press into a uniform tube. Score into 12 equal portions, trimming a little bit of the dough off each end. Use a string or knife to cut dough roll into 12 rolls. The extra dough can be added to the bottoms of some of the smaller rolls.",
+      "For the bath, pour apple cider into a saucepan and bring to a boil over medium-high heat. Boil until apple cider has reduced by half, about 12 minutes. Ladle out 1/4 cup of reduced apple cider and reserve for the icing. Continue cooking until the cider has reduced to about 1/3 cup and gets syrupy, about 12 more minutes. Turn off heat and stir in cream. Set aside until rolls are fully proofed.",
+      "Once cinnamon rolls are proofed, ladle the cider bath evenly over the rolls, coating as much of the surface as possible.",
+      "Preheat the oven to 350 degrees F (180 degrees C).",
+      "Bake cinnamon rolls in the preheated oven for 30 to 35 minutes. The internal temperature in the center of each roll should read 190 degrees F (88 degrees C). Remove from the oven and allow cinnamon rolls to cool for 10 to 15 minutes while preparing the icing.",
+      "Whisk powdered sugar, 1 cup at a time, into the reserved reduced apple cider until you have a smooth, thick, yet pourable icing.  Drizzle icing over the rolls using a whisk. Allow cinnamon rolls to cool until just warm and serve."
+    ],
+    "nutrition": {
+      "calories": 488,
+      "fat": 15,
+      "carbs": 83,
+      "protein": 6
+    }
+  },
+  {
+    "name": "Creamy Banana Milkshake",
+    "id": 2,
+    "rating": 4.8,
+    "img": [
+      "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4457033.jpg&q=60&c=sc&poi=auto&orient=true&h=512"
+    ],
+    "description": "This banana milkshake recipe is a delectable treat! It's creamy, rich, and sweet. I recommend this for a morning drink.",
+    "category": ["drinks", "shakes"],
+    "prepTime": "10 mins",
+    "totalTime": "10 mins",
+    "servings": 1,
+    "ingredients": {
+      "all": [
+        "1 cup milk",
+        "1 scoop vanilla ice cream",
+        "1 ripe banana",
+        "1 pinch ground cinnamon, or to taste",
+        "2 tablespoons whipped cream, or more to taste",
+        "1 tablespoon caramel topping"
+      ]
+    },
+    "instruction": [
+      "Combine milk, ice cream, banana, and cinnamon in a blender; blend on low speed until the mixture reaches the consistency of a thick milkshake. Pour milkshake into a cup and top with whipped cream and drizzled caramel."
+    ],
+    "nutrition": {
+      "calories": 399,
+      "fat": 9,
+      "carbs": 58,
+      "protein": 11
+    }
+  },
+  {
+    "name": "Easy Spaghetti Carbonara",
+    "id": 3,
+    "rating": 4.5,
+    "img": [
+      "https://www.allrecipes.com/thmb/RvWDF8WdGlTx6jgNol8lyi5aYus=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/11998102-Spaghetti-Carbonara-Magazine-Beauty-4x3-f9ac77da59e540dba06d69a6f2566fb8.jpg"
+    ],
+    "description": "Spaghetti Carbonara is the ultimate easy-cooking comfort food. Follow this recipe for perfecting the simple yet rich dish and its trademark silky, smooth sauce.",
+    "category": ["main", "pasta", "spaghetti"],
+    "prepTime": "10 mins",
+    "totalTime": "20 mins",
+    "servings": 4,
+    "ingredients": {
+      "all": [
+        "4 eggs, lightly beaten",
+        "1/2 cup grated Pecorino Romano cheese (2 ounces), plus more for garnish",
+        "6 ounces pancetta, finely diced",
+        "12 ounces spaghetti",
+        "cracked black pepper, for garnish"
+      ]
+    },
+    "instruction": [
+      "Whisk together eggs and Pecorino Romano in a medium bowl.",
+      "Cook pancetta in a large skillet over medium heat, stirring often, until evenly browned, about 10 minutes.",
+      "Meanwhile, bring a large pot of salted water to a boil. Cook spaghetti according to package directions, reserving 2⁄3 cup pasta cooking water. Drain; add spaghetti to pancetta in skillet. Remove skillet from heat.",
+      "Stir 1⁄4 cup pasta water into egg mixture to temper eggs. Add egg mixture to spaghetti in skillet; stir constantly, adding enough pasta cooking water to reach desired consistency, until spaghetti is coated and eggs are just set but not curdled. Garnish with black pepper and/or additional Pecorino Romano; Note Guanciale is the traditional cured pork choice for carbonara. It has a high fat-to-meat ratio, which contributes to a silky end product. But it can be hard to find and expensive. So use pancetta instead. Bacon can be used in a pinch, too. Pecorino Romano is aged sheep’s-milk cheese with a sharp and salty flavor. For the best texture, grate your own. But you can substitute Parmesan, no problem."
+    ],
+    "nutrition": {
+      "calories": 380,
+      "fat": 18,
+      "carbs": 27,
+      "protein": 25
+    }
+  },
+  {
+    "name": "Chicken Teriyaki and Noodles",
+    "id": 4,
+    "rating": 4.8,
+    "img": [
+      "https://www.allrecipes.com/thmb/yeCMxqmnDk-Cf-xxO1A3NSUhx-U=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/167391304745E7984B-2F85-4649-8B14-4A5844410E04-2000-939c43fffcd748b5ba9628095d050295.jpeg"
+    ],
+    "description": "Ditch the take out with this quick chicken teriyaki and noodle dish made with homemade teriyaki sauce!",
+    "category": ["main", "chicken"],
+    "prepTime": "10 mins",
+    "cookTime": "10 mins",
+    "totalTime": "20 mins",
+    "servings": 6,
+    "ingredients": {
+      "dish": [
+        "1 pound skinless, boneless chicken thighs, cut into bite-sized pieces",
+        "½ teaspoon salt",
+        "¼ teaspoon freshly ground black pepper",
+        "2 teaspoons sesame oil",
+        "15 ounces wonton mein noodles (Canadian-style)",
+        "4 cups frozen stir-fry vegetables, thawed"
+      ],
+      "sauce": [
+        "⅓ cup low-sodium soy sauce",
+        "¼ cup mirin (Japanese sweet wine)",
+        "¼ cup sake (Japanese rice wine)",
+        "2 tablespoons brown sugar",
+        "5 cloves minced garlic",
+        "1 teaspoon minced fresh ginger root",
+        "1 pinch red pepper flakes (Optional)"
+      ]
+    },
+    "instruction": [
+      "Season chicken pieces with salt and pepper.",
+      "Heat sesame oil in a large skillet over medium-high heat. Add chicken pieces and cook, stirring, until chicken is browned, 3 to 5 minutes. Remove chicken to a plate and keep warm.",
+      "Meanwhile, bring a pot of water to a boil over high heat. Add noodles and vegetables and cook until noodles are softened, about 3 minutes.",
+      "Combine soy sauce, mirin, sake, brown sugar, garlic, ginger, and red pepper flakes in a bowl. Stir to combine and pour sauce into the skillet. Cook stirring frequently until sauce is thickened, about 3 minutes. Add chicken back into skillet with sauce.",
+      "Drain noodles and vegetables and add to skillet. Stir to combine and serve"
+    ],
+    "nutrition": {
+      "calories": 596,
+      "fat": 27,
+      "carbs": 63,
+      "protein": 26
+    }
+  },
+  {
+    "name": "California Sushi Roll",
+    "id": 5,
+    "rating": 5.0,
+    "img": [
+      "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8821769.jpg&q=60&c=sc&poi=auto&orient=true&h=512"
+    ],
+    "description": "Basic instructions on how to make sushi in your very own home! This recipe can be substituted to include meat, and any other vegetable you can imagine!",
+    "category": ["main", "sushi"],
+    "prepTime": "10 mins",
+    "cookTime": "20 mins",
+    "additionalTime": "15 mins",
+    "totalTime": "45 mins",
+    "servings": 24,
+    "ingredients": {
+      "all": [
+        "1 cup jasmine rice",
+        "1 ½ cups water",
+        "½ cup rice vinegar",
+        "2 tablespoons white sugar",
+        "2 teaspoons salt",
+        "3 sheets nori (dry seaweed)",
+        "1 cucumber, sliced lengthwise",
+        "2 sticks imitation crab, sliced lengthwise"
+      ]
+    },
+    "instruction": [
+      "Rinse rice until water runs clear. Combine rice and 1 1/2 cups water in a saucepan and bring to a boil, about 5 minutes. Reduce heat to low, cover, and simmer until water is completely absorbed and rice is soft, 8 to 10 minutes.",
+      "Use a wooden spoon to transfer cooked rice to a non-metal bowl and set aside to cool.",
+      "Meanwhile, combine vinegar, sugar, and salt in a small saucepan and bring to a boil, about 5 minutes. Reduce heat and simmer 1 minute more. Combine vinegar mixture with the cooling rice a few tablespoons at a time until rice is coated; you may not need all of the vinegar mixture. Set aside to finish cooling completely, about 15 minutes.",
+      "Place a sheet of nori on a sushi mat with the rough side facing up. Place a small bowl of water nearby. Use wet hands to evenly spread a handful of rice onto the nori. Arrange cucumber and crab across the nori, about 1/2 inch from the edge closest to you. Roll the wrap starting at the close edge and rolling away from yourself. Press and roll again to seal. Repeat with remaining nori, rice, cucumber, and crab.",
+      "Dip a sharp knife into water and slice each roll into 8 pieces, rinsing the knife after each cut to prevent sticking."
+    ],
+    "nutrition": {
+      "calories": 37,
+      "carbs": 8,
+      "protein": 1
+    }
+  },
+  {
+    "name": "Copycat Chicken Salad Chick Kickin’ Kay Lynne Chicken Salad",
+    "rating": 5.0,
+    "id": 6,
+    "img": [
+      "https://www.allrecipes.com/thmb/UQKz_xZfdGurb9fCriPJ2w2xvY0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/12028462-copycat-chicken-salad-chick-kickin-kay-lynne-chicken-salad-recipe-PICS-Beauty-4x3-37c3c5cc06704a49a068da2431f03da1.jpg"
+    ],
+    "description": "This copycat of Chicken Salad Chick’s Kickin’ Kay Lynne chicken salad lives up to its name. It’s bold and spicy like a firecracker, with ranch seasoning, bacon, Cheddar cheese, and a “kick” from Buffalo sauce, Sriracha, and jalapeños. Make a sandwich with a croissant or bread, or serve it with crackers or over lettuce.",
+    "category": ["salad", "chicken"],
+    "prepTime": "15 mins",
+    "refrigerateTime": "1 hr",
+    "totalTime": "1 hr 15 mins",
+    "servings": 4,
+    "ingredients": {
+      "dressing": [
+        "1/2 cup mayonnaise",
+        "1 tablespoon Buffalo sauce",
+        "1 teaspoon Sriracha hot sauce, or to taste",
+        "1 1/2 teaspoons dry ranch seasoning, or to taste",
+        "1/4 teaspoon garlic powder",
+        "freshly ground black pepper",
+        "1 teaspoon milk, or more as needed (optional)"
+      ],
+      "salad": [
+        "2 cups finely chopped cooked chicken",
+        "4 slices center-cut bacon, cooked crisp and crumbled",
+        "1/2 cup freshly shredded sharp Cheddar cheese",
+        "2 tablespoons finely diced fresh jalapeno or pickled jalapeno peppers"
+      ]
+    },
+    "instruction": [
+      "Whisk mayonnaise, Buffalo sauce, Sriracha sauce, ranch seasoning, garlic powder, and pepper together in a medium bowl until smooth. Whisk in milk, 1 teaspoon at a time, if needed.",
+      "Fold in chicken, bacon, Cheddar cheese, and jalapeno until evenly coated. Cover and refrigerate for at least 1 hour before serving. Note: I used canned pickled jalapeños. A rotisserie chicken breast chopped in a food processor will give you the best texture for chicken salad. Feel free to lighten this up by substituting 1/4 cup light mayonnaise and 1/4 cup nonfat Greek yogurt for the 1/2 cup mayonnaise. You can also increase the protein by using high-protein Greek yogurt.If you can tolerate more spice, feel free to add an additional tablespoon of Buffalo sauce."
+    ],
+    "nutrition": {
+      "calories": 513,
+      "fat": 43,
+      "carbs": 2,
+      "protein": 28
+    }
+  },
+  {
+    "name": "Easy Mini Bagel Pizzas",
+    "id": 7,
+    "rating": 4.8,
+    "img": [
+      "https://www.allrecipes.com/thmb/rVrSU3laHKEYjJ_dLU0EWgbY7FU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/232789-easy-mini-bagel-pizzas-VAT-Beauty-4x3-468e50c1f12347bf87421d1b4eb27784.jpg"
+    ],
+    "description": "These mini pizza bagels with pepperoni and cheese are a yummy homemade snack or easy dinner.",
+    "category": ["main", "pizza"],
+    "prepTime": "10 mins",
+    "cookTime": "10 mins",
+    "totalTime": "20 mins",
+    "servings": 4,
+    "ingredients": {
+      "all": [
+        "8 mini bagels, split",
+        "¼ cup pizza sauce",
+        "⅓ cup shredded pizza cheese blend",
+        "16 slices turkey pepperoni (such as Hormel)"
+      ]
+    },
+    "instruction": [
+      "Preheat the oven to 425 degrees F (220 degrees C). Line a baking sheet with aluminum foil.",
+      "Arrange bagels, cut-side up, on the prepared baking sheet. Spoon a thin layer of pizza sauce over each bagel half and sprinkle with pizza cheese. Place two pepperoni slices onto each bagel half.",
+      "Bake in the preheated oven until cheese is melted and pepperoni is lightly browned, about 6 minutes. Let cool slightly before serving."
+    ],
+    "nutrition": {
+      "calories": 232,
+      "fat": 6,
+      "carbs": 30,
+      "protein": 14
+    }
+  },
+  {
+    "name": "Paleo Applesauce Pancakes",
+    "id": 8,
+    "rating": 4.9,
+    "img": [
+      "https://www.allrecipes.com/thmb/ynungV8KguzmFBKKzK3nd4RLTkU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/245536-paleo-applesauce-pancakes-VAT-Beauty-4x3-3468bc569dab48d684176aa5fe101d69.jpg"
+    ],
+    "description": "Delicious, paleo, and gluten-free, these simple pancakes use tapioca flour for elasticity, applesauce for moisture, and cinnamon for cozy aroma. Serve with honey and lemon, or your favorite pancake syrup.",
+    "category": ["breakfast", "pancakes"],
+    "prepTime": "10 mins",
+    "cookTime": "5 mins",
+    "additionalTime": "15 mins",
+    "totalTime": "30 mins",
+    "servings": 6,
+    "ingredients": {
+      "all": [
+        "2 large eggs",
+        "⅓ cup applesauce",
+        "½ teaspoon vanilla extract",
+        "½ cup almond flour",
+        "⅓ cup tapioca flour",
+        "½ teaspoon ground cinnamon",
+        "½ teaspoon baking soda",
+        "1 pinch salt",
+        "3 tablespoons water, or as needed",
+        "1 ½ teaspoons coconut oil, or as needed"
+      ]
+    },
+    "instruction": [
+      "Gather all ingredients.",
+      "Whisk eggs lightly in a large bowl. Add applesauce and vanilla extract; mix well to combine.",
+      "Combine almond flour, tapioca flour, cinnamon, baking soda, and salt in a separate bowl.",
+      "Add to egg mixture and mix until just combined. Add water until pancake batter is desired thickness. Set batter aside to rest for 15 minutes.",
+      "Melt coconut oil on a griddle over medium-high heat. Drop batter by large spoonfuls onto the griddle and cook until bubbles form in the center and the edges are dry, 3 to 4 minutes.",
+      "Flip and cook until golden on the other side, 2 to 3 minutes. Repeat with remaining batter. Note: You may want to substitute baking powder for baking soda if you're not 100% paleo. You can add more or less water than the recipe calls for, depending on how thick or thin you want your pancakes to be.",
+      "Serve and enjoy!"
+    ],
+    "nutrition": {
+      "calories": 127,
+      "fat": 8,
+      "carbs": 11,
+      "protein": 4
+    }
+  },
+  {
+    "name": "Delicious Strawberry Shake",
+    "id": 9,
+    "rating": 4.5,
+    "img": [
+      "https://www.allrecipes.com/thmb/12nsLvmYl1aDEddak-Qmkb9byLY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Delicious-Healthy-Strawberry-Shake-Yoly-2000-7a3028d448b743ffaa7a378a53cf6376.jpg"
+    ],
+    "description": "My mom made this strawberry shake for me when I was a kid. I loved it then, and I still love it, especially on hot summer days!",
+    "category": ["drinks", "shakes"],
+    "prepTime": "10 mins",
+    "totalTime": "10 mins",
+    "servings": 2,
+    "ingredients": {
+      "all": [
+        "2 cups milk",
+        "1 cup frozen strawberries or to taste",
+        "1 tablespoon honey or to taste",
+        "1 teaspoon vanilla extract"
+      ]
+    },
+    "instruction": [
+      "Combine milk, frozen strawberries, honey, and vanilla in a blender. Blend until smooth.",
+      "Pour into glasses and serve."
+    ],
+    "nutrition": {
+      "calories": 186,
+      "fat": 5,
+      "carbs": 27,
+      "protein": 8
+    }
+  },
+  {
+    "name": "Shamrock Shake",
+    "id": 10,
+    "rating": 4.8,
+    "img": [
+      "https://www.allrecipes.com/thmb/d0cg-lmapzpSfDCYdoY_GJODSrM=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/231602-shamrock-shakes-DDMFS-beauty-4x3-0d30874219ac4768a208eaadce5a4498.jpg"
+    ],
+    "description": "This creamy Shamrock Shake is a blend of vanilla ice cream, milk, mint extract, and green food coloring for a fun St. Patrick's Day treat. This recipe has become a tradition in our house. The kids love it, and so do I!",
+    "category": ["drinks", "shakes"],
+    "prepTime": "10 mins",
+    "totalTime": "10 mins",
+    "servings": 2,
+    "ingredients": {
+      "all": [
+        "2 cups vanilla ice cream",
+        "1 ¼ cups milk",
+        "¼ teaspoon mint extract, or more to taste",
+        "9 drops green food coloring",
+        "2 tablespoons chocolate syrup, or to taste",
+        "2 tablespoons whipped cream, or to taste",
+        "½ teaspoon green decorator sugar, or to taste"
+      ]
+    },
+    "instruction": [
+      "Gather the ingredients.",
+      "Blend ice cream, milk, mint extract, and food coloring together in a blender until smooth.",
+      "Drizzle chocolate syrup around the inside of 2 tall glasses; pour shake into the glasses. Top with whipped cream and green sugar.",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 412,
+      "fat": 19,
+      "carbs": 53,
+      "protein": 10
+    }
+  },
+  {
+    "name": "Chocolate Banana Milkshake",
+    "id": 11,
+    "rating": 4.9,
+    "img": [
+      "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F697527.jpg&q=60&c=sc&poi=auto&orient=true&h=512"
+    ],
+    "description": "Yummy milkshake for those hot summer days!",
+    "category": ["drinks", "shakes"],
+    "prepTime": "5 mins",
+    "additionalTime": "30 mins",
+    "totalTime": "35 mins",
+    "servings": 2,
+    "ingredients": {
+      "all": [
+        "1 banana, frozen and chunked",
+        "6 tablespoons powdered chocolate-flavored malt drink mix (such as Ovaltine®)",
+        "1 cup milk",
+        "2 cups vanilla ice cream"
+      ]
+    },
+    "instruction": [
+      "Place the frozen banana chunks, powdered drink mix, milk, and vanilla ice cream into a blender, and blend until smooth and creamy. Pour into large glasses."
+    ],
+    "nutrition": {
+      "calories": 439,
+      "fat": 17,
+      "carbs": 64,
+      "protein": 11
+    }
+  },
+  {
+    "name": "Banana Split Shake",
+    "id": 12,
+    "rating": 4.8,
+    "img": [
+      "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2209888.jpg&q=60&c=sc&poi=auto&orient=true&h=512"
+    ],
+    "description": "One of our favourite foodie trends is taking a beloved recipe or dish and giving it a new twist. This recipe takes all the flavours of a classic banana split (strawberry, pineapple, banana, coconut and chocolate) blended into a luscious, retro milkshake.",
+    "category": ["drinks", "shakes"],
+    "prepTime": "7 mins",
+    "totalTime": "7 mins",
+    "servings": 4,
+    "ingredients": {
+      "all": [
+        "4 large scoops vanilla ice cream",
+        "1 banana",
+        "½ cup frozen sliced strawberries",
+        "½ cup crushed pineapple with juice",
+        "¼ cup chocolate syrup, or as needed",
+        "Gay Lea Real Coconut Whipped Cream",
+        "4 Maraschino cherries"
+      ]
+    },
+    "instruction": [
+      "Combine ice cream, banana, strawberries, pineapple and chocolate syrup in a blender. Blend until smooth.",
+      "Divide shake between 2 large (or 4 smaller) glasses. Squirt a generous amount of coconut whipped cream on top. Garnish with additional chocolate syrup and a cherry (if using). Serve immediately. For a fancy presentation, drizzle the chocolate syrup into the glasses, swirling so that it coats the sides before pouring in the shake."
+    ],
+    "nutrition": {
+      "calories": 208,
+      "fat": 6,
+      "carbs": 38,
+      "protein": 2
+    }
+  },
+  {
+    "name": "Cranberry Pistachio Pudding Muffins",
+    "id": 13,
+    "rating": 4.0,
+    "img": [
+      "https://www.allrecipes.com/thmb/7nyZXHMPGY1cGkk_fzcAqC9-GsM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/8749115-Cranberry-Pistachio-Pudding-Muffins-ddmfs-7737-4x3-beauty-c3f00b8612fe4cfe9082b177060c3be5.jpg"
+    ],
+    "description": "These cranberry pistachio pudding muffins are perfect for the holidays with their green color and red cranberry specks.",
+    "category": ["bread", "muffin"],
+    "prepTime": "15 mins",
+    "cookTime": "20 mins",
+    "standTime": "30 mins",
+    "totalTime": "1 hr 5 mins",
+    "servings": 12,
+    "ingredients": {
+      "all": [
+        "2 large eggs",
+        "1/2 cup sour cream",
+        "1/3 cup whole milk",
+        "2 cups all purpose flour",
+        "1 (3.4-ounce) package pistachio instant pudding mix",
+        "2 teaspoons baking powder",
+        "1/2 teaspoon salt",
+        "3/4 cup white sugar",
+        "1/2 cup butter, melted",
+        "1 teaspoon vanilla extract",
+        "1/2 teaspoon almond extract",
+        "2/3 cup dried cranberries",
+        "1/2 cup chopped pistachios",
+        "1/4 cup turbinado (raw) sugar"
+      ]
+    },
+    "instruction": [
+      "Gather all ingredients.",
+      "Let eggs, sour cream, and milk stand at room temperature for 30 minutes.",
+      "Preheat oven to 425 degrees F (220 degrees C). Line twelve 2 1/2-inch muffin cups with paper bake cups.",
+      "Combine flour, pudding mix, baking powder, and salt in a medium bowl.",
+      "Whisk together eggs, white sugar, and melted butter in a medium bowl until combined. Add sour cream, milk, vanilla, and almond extract. Whisk until combined. Stir in dried cranberries until combined.",
+      "Fold in flour mixture.",
+      "Scoop batter into prepared muffin cups.",
+      "Sprinkle tops with pistachios and turbinado sugar. This may seem like too much topping, but as the cupcakes bake and expand, it will be the right amount.",
+      "Bake for 8 minutes. Reduce oven temperature to 350 degrees F (180 degrees C). Bake until a toothpick inserted into the centers comes out clean, 10 to 12 minutes.",
+      "Cool in muffin cups 5 minutes. Transfer to a wire rack. Serve warm or cooled."
+    ],
+    "nutrition": {
+      "calories": 336,
+      "fat": 14,
+      "carbs": 50,
+      "protein": 5
+    }
+  },
+  {
+    "name": "Gingerbread Cinnamon Rolls",
+    "id": 14,
+    "rating": 5.0,
+    "img": [
+      "https://www.allrecipes.com/thmb/CROUu7yyX0yVQJKDkpnKIuMgwTw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gingerbread-cinnamon-rolls-3x4-288-9d8b1801c63e454e9ad9ab896a978082.jpg"
+    ],
+    "description": "Serve these gingerbread cinnamon rolls at your next holiday gathering. They come out buttery, sugary, and taste like gingerbread.",
+    "category": ["bread", "pastries", "cinnamon roll"],
+    "prepTime": "45 mins",
+    "cookTime": "25 mins",
+    "additionalTime": "2 hrs 40 mins",
+    "totalTime": "3 hrs 50 mins",
+    "servings": 12,
+    "ingredients": {
+      "dough": [
+        "½ cup warm whole milk (110 degrees F (43 degrees C))",
+        "1 (.25 ounce) envelope active dry yeast",
+        "¼ cup granulated sugar, divided",
+        "2 teaspoons kosher salt",
+        "4 3/4 cups all-purpose flour, divided, plus more for work surface",
+        "½ cup sour cream",
+        "6 tablespoons unsalted butter, softened",
+        "3 tablespoons unsulfured molasses",
+        "1 large egg, lightly beaten",
+        "cooking spray"
+      ],
+      "filling": [
+        "½ cup unsalted butter, at room temperature",
+        "1 cup firmly packed light brown sugar",
+        "1 tablespoon unsulfured molasses",
+        "2 teaspoons ground cinnamon",
+        "2 teaspoons ground ginger",
+        "½ teaspoon ground cloves"
+      ],
+      "glaze": [
+        "4 ounces cream cheese, at room temperature",
+        "4 tablespoons unsalted butter, at room temperature",
+        "1 ½ cups powdered sugar",
+        "½ teaspoon vanilla extract",
+        "1 tablespoon whole milk, or more as needed"
+      ]
+    },
+    "instruction": [
+      "To make the dough: Combine warm milk, yeast, and 2 tablespoons of sugar in a small bowl; stir together until combined. Let sit until foamy, about 5 minutes.",
+      "Add salt, 4 cups of the flour, and remaining 2 tablespoons of sugar to the bowl of a stand mixer fitted with the paddle attachment. Beat on low speed until just combined, about 15 seconds. With mixer running on low speed, add milk mixture, sour cream, butter, molasses, and egg. Continue beating until dough forms, 1 to 2 minutes.",
+      "Switch to a dough hook attachment. Beat on medium-low speed until dough is smooth and elastic, 6 to 9 minutes; add remaining 1/4 cup flour 1/2 to 1 teaspoon at a time, if necessary. If the dough is sticking to your hands and not pulling away from the sides of the bowl, add the extra flour.",
+      "Place dough in a large bowl greased with cooking spray and turn to coat. Cover with a clean kitchen towel or plastic wrap. Let rise in a warm draft-free place until dough has doubled in size, about 1 hour 30 minutes to 2 hours.",
+      "Generously spray a 13x 9-inch pan with cooking spray. Lightly punch down dough. On a lightly floured surface, roll dough into an 18x10-inch rectangle.",
+      "To make the filling: Spread 1/2 cup butter evenly over dough using a small offset spatula, leaving a 1/2-inch border on one long side. Stir together brown sugar, molasses, cinnamon, ginger, and cloves in a small bowl until well combined. Sprinkle evenly over butter, gently pressing down with a rolling pin to adhere mixture to butter.",
+      "Starting with one long side, roll dough into a log, pinching seam to seal.",
+      "Slice into 12 even rolls (about 1 ½-inches each). Place rolls in the prepared pan, leaving about a ½-inch space between each roll. Cover, and let rise in a warm draft-free place until doubled in size, 45 to 60 minutes. Preheat the oven to 350 degrees F (175 degrees C).",
+      "Bake in the preheated oven, uncovered, until golden brown, 25 to 30 minutes. Let cool in the pan on a wire rack for 15 minutes.",
+      "To make the glaze: Add cream cheese and 4 tablespoons butter to the bowl of a stand mixer fitted with the paddle attachment; beat on medium speed until smooth, 1 to 2 minutes. Add powdered sugar, vanilla, and milk. Beat on medium speed until smooth, about 1 minute. If desired, add more milk, 1 teaspoon at a time, until desired consistency is reached.",
+      "Spread glaze evenly over warm rolls; serve immediately. Note: I used unsulfured molasses, which does not contain sulfur dioxide, which could hinder the yeast's fermentation. Make sure your bread is fully proofed. To test, gently press the dough with your finger - if it slowly springs back, it's ready."
+    ],
+    "nutrition": {
+      "calories": 533,
+      "fat": 24,
+      "carbs": 74,
+      "protein": 7
+    }
+  },
+  {
+    "name": "Christmas Cherry Cake",
+    "id": 15,
+    "rating": 4.6,
+    "img": [
+      "https://www.allrecipes.com/thmb/DAHh7EQSF8E1TQ_01o1BQTiL5hA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/9266-christmas-cherry-cake-DDMFS-Beauty-4x3-525794608adb471b8eb3d4a811af0b48.jpg"
+    ],
+    "description": "This cherry cake is a lovely white loaf cake packed with glacé cherries for an easy fruitcake that's perfect for gifting. Serve dusted with powdered sugar for a festive touch.",
+    "category": ["desserts", "cakes"],
+    "prepTime": "20 mins",
+    "cookTime": "2 hrs 30 mins",
+    "totalTime": "2 hrs 50 mins",
+    "servings": 12,
+    "ingredients": {
+      "all": [
+        "1 cup white sugar",
+        "1 cup butter, softened",
+        "2 large eggs",
+        "½ cup orange juice",
+        "2 cups all-purpose flour",
+        "1 teaspoon baking powder",
+        "12 ounces golden raisins",
+        "8 ounces halved glace cherries"
+      ]
+    },
+    "instruction": [
+      "Preheat the oven to 300 degrees F (150 degrees C). Grease a 9x5-inch loaf pan and line with parchment paper.",
+      "Beat butter and sugar in a large bowl until light and fluffy. Add eggs, one at a time, beating well after each addition. Mix in orange juice until smooth.",
+      "Sift flour and baking powder. Reserve 1/3 cup of the flour mixture and toss with raisins and cherries to help keep them suspended in the batter. Stir remaining flour mixture into batter until just combined. Fold in floured raisins and cherries.",
+      "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 2 hours and 15 minutes. Cool completely before wrapping tightly in plastic wrap or foil. Store in an airtight container at room temperature for several days to allow flavor to develop. Note: This cake improves in flavor after resting for 3 days. For longer storage, wrap tightly and freeze for up to 3 months. Add a sweet glaze before slicing and serving: Whisk 1 cup confectioners’ sugar with 2 tablespoons orange juice until smooth. Drizzle over cooled cake and let it set for 30 minutes."
+    ],
+    "nutrition": {
+      "calories": 390,
+      "fat": 17,
+      "carbs": 59,
+      "protein": 56
+    }
+  }
+]
