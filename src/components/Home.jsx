@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { getRecipeByID } from "../data";
 import Card from "./Card";
+
 const Home = () => {
   const [recipes, setRecipes] = useState(null)
   useEffect(() => {

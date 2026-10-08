@@ -29,7 +29,7 @@ const Recipe = () => {
   const ingredientList = Object.keys(recipe.ingredients).map(ingr => {
     return (
       <div key={ingr}>
-        {recipe.ingredients[ingr] === "all" ? "" : ingr}
+        {ingr === "all" ? "" : ingr}
         <ul>
           {recipe.ingredients[ingr].map(item => {
             return (

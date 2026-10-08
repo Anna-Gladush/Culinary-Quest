@@ -1,4 +1,42 @@
+@font-face {
+  font-family: "ASEA";
+  src: url(./assets/fonts/ASEA/AseaR.ttf);
+}
+
+@font-face {
+  font-family: "MontBlanc";
+  src: url(./assets/fonts/MontBlanc/MontBlanc-Trial-Regular.ttf);
+  unicode-range: U+030-039, U+041-07A, U+400-4FF;
+}
+
 :root {
+  --heading-font: "ASEA", "Segoe UI", Roboto, sans-serif;
+  --text-font: "MontBlanc", "Segoe UI", Roboto, sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--text-font);
+}
+
+h1,
+h2 {
+  font-family: var(--heading-font);
+}
+
+div.bg-img {
+  background-color: black;
+  background-image: url(./assets/images/anelka-olive-oil-346997_1920.jpg);
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 40vh;
+}
+/* :root {
   --text: #6b6375;
   --text-h: #08060d;
   --bg: #fff;
@@ -11,11 +49,10 @@
   --shadow:
     rgba(0, 0, 0, 0.1) 0 10px 15px -3px, rgba(0, 0, 0, 0.05) 0 4px 6px -2px;
 
-  --sans: system-ui, 'Segoe UI', Roboto, sans-serif;
-  --heading: system-ui, 'Segoe UI', Roboto, sans-serif;
-  --mono: ui-monospace, Consolas, monospace;
+  --heading-font: "ASEA", "Segoe UI", Roboto, sans-serif;
+  --text-font: "MontBlanc", "Segoe UI", Roboto, sans-serif;
 
-  font: 18px/145% var(--sans);
+  font: 18px/145% var(--text-font);
   letter-spacing: 0.18px;
   color-scheme: light dark;
   color: var(--text);
@@ -28,9 +65,9 @@
   @media (max-width: 1024px) {
     font-size: 16px;
   }
-}
+} */
 
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
   :root {
     --text: #9ca3af;
     --text-h: #f3f4f6;
@@ -44,68 +81,4 @@
     --shadow:
       rgba(0, 0, 0, 0.4) 0 10px 15px -3px, rgba(0, 0, 0, 0.25) 0 4px 6px -2px;
   }
-
-  #social .button-icon {
-    filter: invert(1) brightness(2);
-  }
-}
-
-body {
-  margin: 0;
-}
-
-#root {
-  width: 1126px;
-  max-width: 100%;
-  margin: 0 auto;
-  text-align: center;
-  border-inline: 1px solid var(--border);
-  min-height: 100svh;
-  display: flex;
-  flex-direction: column;
-  box-sizing: border-box;
-}
-
-h1,
-h2 {
-  font-family: var(--heading);
-  font-weight: 500;
-  color: var(--text-h);
-}
-
-h1 {
-  font-size: 56px;
-  letter-spacing: -1.68px;
-  margin: 32px 0;
-  @media (max-width: 1024px) {
-    font-size: 36px;
-    margin: 20px 0;
-  }
-}
-h2 {
-  font-size: 24px;
-  line-height: 118%;
-  letter-spacing: -0.24px;
-  margin: 0 0 8px;
-  @media (max-width: 1024px) {
-    font-size: 20px;
-  }
-}
-p {
-  margin: 0;
-}
-
-code,
-.counter {
-  font-family: var(--mono);
-  display: inline-flex;
-  border-radius: 4px;
-  color: var(--text-h);
-}
-
-code {
-  font-size: 15px;
-  line-height: 135%;
-  padding: 4px 8px;
-  background: var(--code-bg);
-}
+} */
