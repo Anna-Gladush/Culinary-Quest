@@ -17,19 +17,10 @@ const Recipe = () => {
 
   if (!recipe) return <h1>Loading...</h1>
 
-  const linksList = recipe.category.map(category => {
-          return (
-            <div key={category} className="breadcrumbs" style={{"margin-left": 0}}>
-              <p>{">"}</p>
-              <Link to={`/recipes/${category}`}>{category}</Link>
-            </div>
-          )
-      })
-
   const ingredientList = Object.keys(recipe.ingredients).map(ingr => {
     return (
       <div key={ingr}>
-        <p style={{"text-transform": "capitalize", fontWeight: "bold"}}>{ingr === "all" ? "" : ingr}</p>
+        <p style={{textTransform: "capitalize", fontWeight: "bold"}}>{ingr === "all" ? "" : ingr}</p>
         <ul>
           {recipe.ingredients[ingr].map(item => {
             return (
@@ -53,7 +44,8 @@ const Recipe = () => {
         <Link to="/">Home</Link>
         <p>{">"}</p>
         <Link to="/recipes">All</Link>
-        {linksList}
+        <p>{">"}</p>
+        <Link to={`/recipes/${recipe.id}`}>{recipe.name}</Link>
       </div>
       <div className="recipe-view">
         <div className="info-ingr">
