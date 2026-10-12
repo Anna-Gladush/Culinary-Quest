@@ -16,12 +16,14 @@ const Home = () => {
   if (!recipes) return <h1>Loading...</h1>
   return (
     <section className="home">
-      <div className="bg-img">
-        {/* capslock */}
+      <div className="text-box">
         <p>Delicious</p>
+        <p>✷</p>
         <p>Simple</p>
+        <p>✷</p>
         <p>Made with love</p>
       </div>
+      <div className="bg-img"></div>
       <div>
         <h1>Recipes</h1>
         <p>Recipes for every occasion</p>
