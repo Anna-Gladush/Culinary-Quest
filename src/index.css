@@ -156,10 +156,42 @@ div.home-cards {
 }
 
 div.breadcrumbs {
+  text-transform: capitalize;
   display: flex;
+  align-items: center;
   gap: 10px;
   margin-block: 30px;
   margin-left: 30px;
+}
+
+/* RECIPE */
+
+section.recipe {
+  margin-left: 50px;
+  margin-right: 50px;
+  text-wrap: balance;
+}
+
+.recipe-view {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.info-ingr {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.instruction {
+  margin-block: 30px;
+  width: 80vw;
+}
+
+section.recipe h1,
+section.recipe h2 {
+  margin-bottom: 20px;
 }
 
 footer {

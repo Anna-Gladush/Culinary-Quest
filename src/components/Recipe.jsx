@@ -19,7 +19,7 @@ const Recipe = () => {
 
   const linksList = recipe.category.map(category => {
           return (
-            <div key={category}>
+            <div key={category} className="breadcrumbs" style={{"margin-left": 0}}>
               <p>{">"}</p>
               <Link to={`/recipes/${category}`}>{category}</Link>
             </div>
@@ -29,7 +29,7 @@ const Recipe = () => {
   const ingredientList = Object.keys(recipe.ingredients).map(ingr => {
     return (
       <div key={ingr}>
-        {ingr === "all" ? "" : ingr}
+        <p style={{"text-transform": "capitalize", fontWeight: "bold"}}>{ingr === "all" ? "" : ingr}</p>
         <ul>
           {recipe.ingredients[ingr].map(item => {
             return (
@@ -55,23 +55,27 @@ const Recipe = () => {
         <Link to="/recipes">All</Link>
         {linksList}
       </div>
-      <div>
-        <div className="recipe-basic-info">
-          <h1 className="recipe-name">{recipe.name}</h1>
-          <p className="recipe-description">{recipe.description}</p>
-        </div>
-        <div className="recipe-ingredients">
-          <h2>Ingredients</h2>
-          {ingredientList}
+      <div className="recipe-view">
+        <div className="info-ingr">
+          <div className="recipe-basic-info">
+            <h1 className="recipe-name">{recipe.name}</h1>
+            <p className="recipe-description">{recipe.description}</p>
+          </div>
+          <div className="recipe-ingredients">
+            <h2>Ingredients</h2>
+            {ingredientList}
+          </div>
         </div>
         <div>
-          <h2>Instruction: </h2>
-          <ol>
-            {instructionList}
-          </ol>
+          <img src={recipe.img[0]} alt={recipe.name} />
         </div>
       </div>
-      <img src={recipe.img[0]} alt={recipe.name} />
+      <div className="instruction">
+        <h2>Instruction: </h2>
+        <ul>
+          {instructionList}
+        </ul>
+    </div>
     </section>
   )
 }
