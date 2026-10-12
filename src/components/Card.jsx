@@ -5,7 +5,7 @@ const Card = ({recipes}) => {
       {recipes.map(recipe => {
         return (
           <Link to={`/recipes/${recipe.id}`} key={recipe.name} className="recipe-card">
-            <img src={recipe.img[0]} alt={recipe.name} />
+            <img src={recipe.img[0]} alt={recipe.name} className="recipe-image"/>
             <h2>{recipe.name}</h2>
             <p>{recipe.description}</p>
           </Link>

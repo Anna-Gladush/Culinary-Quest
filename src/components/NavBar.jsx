@@ -11,6 +11,7 @@ const NavBar = () => {
       <div>
         <img src="/logo.png" alt="Logo" width="40px"/>
         <Link to="/" className="logo-heading">Culinary Quest</Link>
+        <Link to="/recipes">All Recipes</Link>
       </div>
       <div>
           <form onSubmit={(e) => {
@@ -23,9 +24,7 @@ const NavBar = () => {
               </svg>
             </button>
           </form>
-          <Link to="/recipes">All Recipes</Link>
       </div>
-
     </nav>
   )
 }

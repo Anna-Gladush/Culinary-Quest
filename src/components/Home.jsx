@@ -24,11 +24,11 @@ const Home = () => {
         <p>Made with love</p>
       </div>
       <div className="bg-img"></div>
-      <div>
+      <div className="hero-text">
         <h1>Recipes</h1>
         <p>Recipes for every occasion</p>
       </div>
-      <div>
+      <div className="home-cards">
         <Card recipes={recipes} />
       </div>
     </section>

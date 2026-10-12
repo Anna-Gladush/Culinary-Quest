@@ -68,7 +68,7 @@ nav div {
 nav form {
   display: flex;
   justify-content: center;
-  margin-right: 10px;
+  margin-right: 30px;
 }
 
 nav input {
@@ -105,6 +105,7 @@ section {
   margin-top: 90px;
 }
 
+/* HOME SECTION */
 div.bg-img {
   background-color: rgba(204, 204, 204, 0.5);
   background-image: url(./assets/images/lum3n-RYqO8DhPg68-unsplash.jpg);
@@ -121,6 +122,62 @@ div.text-box {
   align-items: center;
   gap: 35px;
   font-size: 2rem;
+}
+
+div.hero-text {
+  text-align: center;
+  margin-block: 30px;
+}
+
+div.home-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 40px;
+  margin-right: 30px;
+  margin-left: 30px;
+}
+
+.recipe-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+  padding: 20px;
+  border: 2px solid var(--white-color);
+  border-radius: 20px;
+  text-wrap: balance;
+}
+
+.recipe-image {
+  float: center;
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+
+div.breadcrumbs {
+  display: flex;
+  gap: 10px;
+  margin-block: 30px;
+  margin-left: 30px;
+}
+
+footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-block: 60px 30px;
+}
+
+footer .developer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+footer span {
+  font-weight: bold;
 }
 /* :root {
   --social-bg: rgba(244, 243, 236, 0.5);
